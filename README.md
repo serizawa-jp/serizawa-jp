@@ -4,15 +4,11 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/serizawa_eng?style=social)
 ![Twitch Status](https://img.shields.io/twitch/status/serizawa_jp?style=social)
 
----
-
 ## 🧰 Toolbox
 
 
 <img src="https://cdn.worldvectorlogo.com/logos/go-6.svg" alt="Go Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript Logo" width="50" height="50"/>
 
-
----
 
 ## 📘 Latest Blog Articles (JA)
 
@@ -23,8 +19,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://note.com/serizawa_jp/)
-
----
 
 ## &#x1f4c8; My GitHub Stats
 
