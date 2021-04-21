@@ -6,14 +6,15 @@
 
 ---
 
-🧰 Toolbox
+## 🧰 Toolbox
+
 
 <img src="https://cdn.worldvectorlogo.com/logos/go-6.svg" alt="Go Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript Logo" width="50" height="50"/>
 
 
 ---
 
-📘 Latest Blog Articles (JA)
+## 📘 Latest Blog Articles (JA)
 
 <!-- BLOG-POST-LIST:START -->
 - [RoamResearchを自動でバックアップする (手順動画付き)](https://note.com/serizawa_jp/n/n859b1026f722)
