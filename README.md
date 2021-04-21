@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Serizawa. <img src="https://github.githubassets.com/images/mona-whisper.gif" width="30px">
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Serizawa. <img src="https://github.githubassets.com/images/mona-whisper.gif" width="30px">
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/serizawa_jp?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/serizawa_eng?style=social)
