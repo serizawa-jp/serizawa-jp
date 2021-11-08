@@ -13,9 +13,9 @@
 ## 📘 Latest Blog Articles (JA)
 
 <!-- BLOG-POST-LIST:START -->
-- [RoamResearchを自動でバックアップする (手順動画付き)](https://note.com/serizawa_jp/n/n859b1026f722)
+- [RoamResearchを自動でバックアップする &lpar;手順動画付き&rpar;](https://note.com/serizawa_jp/n/n859b1026f722)
 - [NewselaからRoam Researchに記事をコピーするブックマークレットを作成しました](https://note.com/serizawa_jp/n/n3a5b52920957)
-- [TOEIC L&R 695点から895点に上げた2ヶ月でやったこと](https://note.com/serizawa_jp/n/n957bf5a25f79)
+- [TOEIC L&amp;R 695点から895点に上げた2ヶ月でやったこと](https://note.com/serizawa_jp/n/n957bf5a25f79)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://note.com/serizawa_jp/)
